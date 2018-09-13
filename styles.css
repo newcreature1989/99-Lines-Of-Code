@@ -1,0 +1,27 @@
+title {
+    text-align: center;
+}
+body {
+    background-color: teal;
+    text-align: center;
+}
+
+h1 {
+    color: white
+}
+
+.friend {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+#h3friend {
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+}
+
+
+
+
